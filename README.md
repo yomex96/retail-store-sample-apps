@@ -108,9 +108,9 @@ This repository uses a **dual-branch approach** for different deployment scenari
 
 > **📚 For detailed branching strategy, CI/CD setup, and advanced workflows, see [BRANCHING_STRATEGY.md](./BRANCHING_STRATEGY.md)**
 
-## Getting Started
+## Getting Started 
 
-### Prerequisites
+### Pre_requisites
 
 1. **Install Prerequisites**: AWS CLI, Terraform, kubectl, Docker, Helm
 2. **Configure AWS**: `aws configure` with appropriate credentials
